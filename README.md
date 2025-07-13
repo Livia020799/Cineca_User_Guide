@@ -6,8 +6,7 @@ This repository provides a practical guide for new users of the [CINECA Leonardo
 
 ---
 
-**This project is still in progress** — I plan to expand the guide and add more templates or tools based on future needs and user feedback.  
-Feel free to contribute suggestions or request additions!
+**This project is still in progress**, I plan to expand the guide and add more templates or tools based on future needs and user feedback.  
 
 If you find this guide or script helpful in your work, **please consider citing or crediting me**.  
 It helps keep the project maintained and encourages further improvements.
@@ -23,7 +22,6 @@ Feel free to open an issue or contact me for questions, suggestions, or contribu
 
 > Oddi, L. (2025). *Cineca HPC Offline Guide (Leonardo Cluster)*. Zenodo.  
 > DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
-> 
 
 ### Informal credit (in notebooks, slides, repos, etc.)
 
