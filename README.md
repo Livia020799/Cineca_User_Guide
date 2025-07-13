@@ -21,7 +21,7 @@ Feel free to open an issue or contact me for questions, suggestions, or contribu
 ### Formal citation (for publications, theses, academic reports)
 
 > Oddi, L. (2025). *Cineca HPC Offline Guide (Leonardo Cluster)*. Zenodo.  
-> DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+> DOI: [10.5281/zenodo.15875060](https://doi.org/10.5281/zenodo.15875060)
 
 ### Informal credit (in notebooks, slides, repos, etc.)
 
